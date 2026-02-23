@@ -161,21 +161,21 @@ const copy = {
 } as const;
 
 const treatmentImages = [
-  "/doctors/doctor-1.jpg",
-  "/doctors/doctor-2.jpg",
-  "/doctors/doctor-3.jpg",
-  "/doctors/doctor-4.jpg",
-  "/doctors/doctor-5.jpg",
-  "/doctors/doctor-6.jpg",
+  "/popular/acne.webp",
+  "/popular/weight-loss-.webp",
+  "/popular/Hair%20Loss.jpg",
+  "/popular/Male%20Health.jpg",
+  "/popular/BirthControl_Share.jpg",
+  "/popular/Erectile%20Dysfunction.avif",
 ];
 
 const medicationImages = [
-  "/doctors/doctor-1.jpg",
-  "/doctors/doctor-2.jpg",
-  "/doctors/doctor-3.jpg",
-  "/doctors/doctor-4.jpg",
-  "/doctors/doctor-5.jpg",
-  "/doctors/doctor-6.jpg",
+  "/browse/Ozempic.jpg",
+  "/browse/Finasteride.webp",
+  "/browse/Minoxidil.webp",
+  "/browse/Lantus.jpg",
+  "/browse/Escitalopramcccc.jpg",
+  "/browse/Metformin.jpg",
 ];
 
 export default function HomePageContent() {

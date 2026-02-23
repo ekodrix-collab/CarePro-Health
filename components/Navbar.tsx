@@ -41,11 +41,11 @@ export default function Navbar() {
         <div className="mx-auto flex w-full max-w-6xl items-center justify-between px-4 py-2 text-xs text-slate-600 sm:px-6 lg:px-8">
           <p className="hidden sm:block">{t.supportLine}</p>
           <a
-            href="tel:+14155550123"
+            href="tel:+918045670123"
             className="inline-flex items-center gap-1.5 font-semibold text-orange-700 transition hover:text-orange-800"
           >
             <PhoneCall size={13} />
-            {t.supportLabel}: +1 (415) 555-0123
+            {t.supportLabel}: +91 80 4567 0123
           </a>
         </div>
       </div>

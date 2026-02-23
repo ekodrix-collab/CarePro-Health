@@ -25,16 +25,16 @@ const supportChannels: Array<{
 }> = [
   {
     title: "Call Support",
-    value: "+1 (415) 555-0123",
+    value: "+91 80 4567 0123",
     detail: "Mon - Sat, 8:00 AM - 6:00 PM",
-    href: "tel:+14155550123",
+    href: "tel:+918045670123",
     icon: Phone,
   },
   {
     title: "Text Support",
-    value: "+1 (415) 555-0181",
+    value: "+91 98765 50181",
     detail: "Typical reply under 30 min",
-    href: "tel:+14155550181",
+    href: "tel:+919876550181",
     icon: MessageSquare,
   },
   {
@@ -46,9 +46,9 @@ const supportChannels: Array<{
   },
   {
     title: "Billing Fax",
-    value: "+1 (415) 555-0192",
+    value: "+91 80 4567 0192",
     detail: "Insurance forms and claims",
-    href: "tel:+14155550192",
+    href: "tel:+918045670192",
     icon: FileText,
   },
 ];
@@ -56,17 +56,17 @@ const supportChannels: Array<{
 const supportLocations = [
   {
     title: "CarePro Main Clinic",
-    address: "245 Elm Street, San Francisco, CA 94107",
+    address: "245 MG Road, Bengaluru, Karnataka 560001",
     detail: "Walk-in support and in-person care coordination.",
   },
   {
     title: "Virtual Care Desk",
-    address: "Remote support hub",
+    address: "Remote support hub, India",
     detail: "Telehealth troubleshooting and visit link support.",
   },
   {
     title: "Insurance and Billing",
-    address: "Dedicated back-office support",
+    address: "Dedicated back-office support, Bengaluru",
     detail: "Coverage guidance, claims, and payment help.",
   },
 ];
@@ -148,7 +148,7 @@ export default function ContactPage() {
           <article className="overflow-hidden rounded-3xl border border-orange-100 bg-white p-2 shadow-sm">
             <iframe
               title="CarePro Clinic Location"
-              src="https://maps.google.com/maps?q=San%20Francisco%20Medical%20Center&t=&z=13&ie=UTF8&iwloc=&output=embed"
+              src="https://maps.google.com/maps?q=MG%20Road%20Bengaluru&t=&z=13&ie=UTF8&iwloc=&output=embed"
               className="h-72 w-full rounded-2xl border-0"
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"

@@ -74,10 +74,10 @@ export default function AppointmentPage() {
               our emergency line.
             </p>
             <a
-              href="tel:+14155550123"
+              href="tel:+918045670123"
               className="mt-4 inline-flex rounded-xl bg-orange-500 px-4 py-2 text-sm font-semibold text-white"
             >
-              Call +1 (415) 555-0123
+              Call +91 80 4567 0123
             </a>
           </section>
         </aside>

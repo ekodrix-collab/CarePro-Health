@@ -256,11 +256,11 @@ export default function OnlinePharmacyPage() {
           </article>
           <article className="rounded-2xl bg-white px-4 py-3 text-sm text-slate-700">
             <p className="font-semibold text-slate-900">Text</p>
-            <p className="mt-1">+1 (415) 555-0181</p>
+            <p className="mt-1">+91 98765 50181</p>
           </article>
           <article className="rounded-2xl bg-white px-4 py-3 text-sm text-slate-700">
             <p className="font-semibold text-slate-900">Fax</p>
-            <p className="mt-1">+1 (415) 555-0192</p>
+            <p className="mt-1">+91 80 4567 0192</p>
           </article>
         </div>
         <div className="mt-4">

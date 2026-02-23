@@ -324,7 +324,7 @@ export default function AppointmentForm() {
             </label>
             <input
               type="tel"
-              placeholder="+1 555 123 4567"
+              placeholder="+91 98765 43210"
               className={inputBaseClasses}
               {...register("phone")}
             />

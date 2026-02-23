@@ -77,7 +77,7 @@ const seedAppointments: AppointmentRecord[] = [
     referenceId: "CP-12001",
     name: "Alex Carter",
     email: "patient@carepro.com",
-    phone: "+1 415 555 0123",
+    phone: "+91 98765 43210",
     service: "Heart Care",
     preferredDoctor: "Dr. Emily Carter",
     date: "2026-02-24",

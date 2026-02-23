@@ -74,8 +74,8 @@ export default function Footer() {
           </p>
           <div className="mt-3 space-y-2 text-sm text-slate-600">
             <p>{t.email}: support@careproclinic.com</p>
-            <p>{t.phone}: +1 (415) 555-0123</p>
-            <p>{t.fax}: +1 (415) 555-0192</p>
+            <p>{t.phone}: +91 80 4567 0123</p>
+            <p>{t.fax}: +91 80 4567 0192</p>
           </div>
           <div className="mt-4 flex items-center gap-2">
             <a
